@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 415 400" role="img" aria-label="Crescent Distance Education logo">
+  <defs>
+    <clipPath id="disc"><circle cx="207" cy="200" r="110"/></clipPath>
+    <symbol id="star" viewBox="-10 -10 20 20" overflow="visible">
+      <polygon points="0,-10 2.9,-4 9.5,-3.1 4.7,1.5 5.9,8.1 0,5 -5.9,8.1 -4.7,1.5 -9.5,-3.1 -2.9,-4" fill="#fff"/>
+    </symbol>
+  </defs>
+  <circle cx="207" cy="200" r="190" fill="#fff" stroke="#f1e4b8" stroke-width="14"/>
+  <circle cx="207" cy="200" r="176" fill="none" stroke="#d4a017" stroke-width="5"/>
+  <g clip-path="url(#disc)">
+    <rect x="90" y="80" width="240" height="250" fill="#1f3a73"/>
+    <circle cx="235" cy="185" r="42" fill="#fff"/>
+    <circle cx="252" cy="177" r="37" fill="#1f3a73"/>
+    <use href="#star" x="172" y="148" width="22" height="22" transform="translate(-11 -11)"/>
+    <use href="#star" x="138" y="176" width="22" height="22" transform="translate(-11 -11)"/>
+    <use href="#star" x="170" y="184" width="22" height="22" transform="translate(-11 -11)"/>
+    <use href="#star" x="133" y="208" width="22" height="22" transform="translate(-11 -11)"/>
+    <use href="#star" x="266" y="180" width="24" height="24" transform="translate(-12 -12)"/>
+    <path d="M95 255 C118 262 128 238 120 232 C142 246 172 282 215 270 C245 262 275 266 330 255 L330 335 L95 335 Z" fill="#fff"/>
+    <path d="M148 306 C190 274 240 268 278 274 C258 306 205 326 148 306 Z" fill="#b3232b"/>
+  </g>
+</svg>
